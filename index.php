@@ -15,7 +15,7 @@
 get_header();
 ?>
 
-	<div id="primary" class="content-area"> test
+	<div id="primary" class="content-area"> notest
 		<main id="main" class="site-main">
 
 		<?php
